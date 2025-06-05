@@ -27,16 +27,16 @@ O que faz: Remove um usuário (com confirmação).
 # Interface
 
 1. JLabel (Texto estático)
-"LOGIN" (título centralizado)
-"Usuário" e "Senha" (rótulos dos campos)
+- "LOGIN" (título centralizado)
+- "Usuário" e "Senha" (rótulos dos campos)
 
 2. JTextField (Campos de entrada)
-usuario (para digitar o nome)
-senha (para digitar a senha)
+- usuario (para digitar o nome)
+- senha (para digitar a senha)
 
 3. JButton (Botões interativos)
-entrar - Verifica credenciais
-cadastrar - Cria nova conta
-registros - Mostra todos usuários
-alteracao - Muda senhas
-deletar - Remove contas
+- entrar - Verifica credenciais
+- cadastrar - Cria nova conta
+- registros - Mostra todos usuários
+- alteracao - Muda senhas
+- deletar - Remove contas
